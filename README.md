@@ -15,9 +15,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/himanshu gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/32himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="32himanshu" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/266b1ffa-35c7-4481-a22f-4ca03fd7b85a" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR338DGdn9GPZv7XwC1o1a9pu7EfkeG5cxkdZE2FouY8NLLPtcWPPjdDfWAp98EFtX7238&usqp=CAU" alt="32himanshu" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/g_himanshu06" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63710339/185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" alt="g_himanshu06" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hmanshugupta123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hmanshugupta123" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/g_himanshu06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="g_himanshu06" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hmanshugupta123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hmanshugupta123" height="30" width="40" /></a>
+  <a href="https://www.naukri.com/code360/profile/266b1ffa-35c7-4481-a22f-4ca03fd7b85a" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR338DGdn9GPZv7XwC1o1a9pu7EfkeG5cxkdZE2FouY8NLLPtcWPPjdDfWAp98EFtX7238&usqp=CAU" alt="32himanshu" height="30" width="40" /></a>  
+
+<a href="https://auth.geeksforgeeks.org/user/himanshugr0o5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshugr0o5" height="30" width="40" /></a>
+<a href="https://discord.gg/himanshugupta2747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="himanshugupta2747" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
